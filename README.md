@@ -1,2 +1,2 @@
-# java_modern_exception_handling
+# Java Modern Exception Handling
 Exception Handling with modern syntax 
